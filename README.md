@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Hugging%20Face-Live%20App-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/stephenhoang/hm-semantic-search)
 
 > **PROJECT STATUS:** 🚀 Completed & Deployed  
-> **LIVE DEMO:** [Click here to try the Web App](https://huggingface.co/spaces/stephenhoang/hm-semantic-search)
+> **LIVE DEMO:** https://huggingface.co/spaces/stephenhoang/hm-semantic-search
 
 ## 📖 Introduction
 This project implements a **Hybrid Information Retrieval System** for fashion e-commerce, solving the classic **"Vocabulary Mismatch Problem"** (e.g., searching for *"running shoes"* but products are labeled *"sneakers"*). 
