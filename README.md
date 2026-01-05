@@ -39,4 +39,6 @@ docker run -p 8501:8501 hybrid-fashion-search
 
 
 ## Performance Showcase
-The system successfully retrieves products even when keywords don't match:Query: "Protection from cold" $\rightarrow$ Result: "Puffer Jacket" (Score: 0.90) 2.Query: "Running shoes" $\rightarrow$ Result: "Trainers/Sneakers" (Score: 0.92) 
+The system successfully retrieves products even when keywords don't match:
+- Query: "Protection from cold" $\rightarrow$ Result: "Puffer Jacket" (Score: 0.90)
+- Query: "Running shoes" $\rightarrow$ Result: "Trainers/Sneakers" (Score: 0.92) 
