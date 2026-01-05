@@ -1,0 +1,11 @@
+# Ignore model weights & heavy data
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+data/
+__pycache__/
+.DS_Store
+venv/
